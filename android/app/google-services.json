@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1019018682966",
+    "firebase_url": "https://flash-chat-be4a1.firebaseio.com",
+    "project_id": "flash-chat-be4a1",
+    "storage_bucket": "flash-chat-be4a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019018682966:android:dc554d21f8170c389a11f7",
+        "android_client_info": {
+          "package_name": "in.oceanacademy.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019018682966-p1jmh2bi20ugv7f1hqbj3o63madjdb8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmhCcvN8L3rB2AiarSL-QPNd6mnC38mQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019018682966-p1jmh2bi20ugv7f1hqbj3o63madjdb8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
